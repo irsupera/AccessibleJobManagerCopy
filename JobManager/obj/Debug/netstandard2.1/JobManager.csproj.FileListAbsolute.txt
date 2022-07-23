@@ -21,6 +21,7 @@
 /Users/irsupera/Documents/ISP-1004/AccessibleJobManagerCopy/JobManager/bin/Debug/netstandard2.1/JobManager.dll
 /Users/irsupera/Documents/ISP-1004/AccessibleJobManagerCopy/JobManager/bin/Debug/netstandard2.1/ref/JobManager.dll
 /Users/irsupera/Documents/ISP-1004/AccessibleJobManagerCopy/JobManager/bin/Debug/netstandard2.1/JobManager.pdb
+/Users/irsupera/Documents/ISP-1004/AccessibleJobManagerCopy/JobManager/obj/Debug/netstandard2.1/JobManager.csproj.AssemblyReference.cache
 /Users/irsupera/Documents/ISP-1004/AccessibleJobManagerCopy/JobManager/obj/Debug/netstandard2.1/JobManager.GeneratedMSBuildEditorConfig.editorconfig
 /Users/irsupera/Documents/ISP-1004/AccessibleJobManagerCopy/JobManager/obj/Debug/netstandard2.1/App.xaml.g.cs
 /Users/irsupera/Documents/ISP-1004/AccessibleJobManagerCopy/JobManager/obj/Debug/netstandard2.1/AppShell.xaml.g.cs

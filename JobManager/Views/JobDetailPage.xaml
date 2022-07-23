@@ -52,7 +52,9 @@
                                     <Image
                                         Source="{Binding Source}"
                                         WidthRequest="200"
-                                        HeightRequest="200"/>
+                                        HeightRequest="200"
+                                        AutomationProperties.IsInAccessibleTree="true"
+                                        AutomationProperties.Name="{Binding Description}" />
                                 </StackLayout>
                             </ViewCell>
                         </DataTemplate>
