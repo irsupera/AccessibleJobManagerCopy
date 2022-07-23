@@ -22,9 +22,13 @@
     <ContentPage.Content>
         <RefreshView Command="{Binding RefreshCommand}" IsRefreshing="{Binding IsBusy}">
             <StackLayout Margin="20" VerticalOptions="FillAndExpand">
-                <Label Text="Name:" FontSize="Medium" />
-                <Entry Text="{Binding Name}" FontSize="Small"/>
-                <Label Text="Description:" FontSize="Medium" />
+                <Label x:Name="NameLabel" Text="Name:" FontSize="Medium" />
+                <Entry Text="{Binding Name}" FontSize="Small"
+                       AutomationProperties.IsInAccessibleTree="true"
+                       AutomationProperties.LabeledBy="{x:Reference NameLabel}" />
+                <Label x:Name="DescriptionLabel" Text="Description:" FontSize="Medium"
+                       AutomationProperties.IsInAccessibleTree="true"
+                       AutomationProperties.LabeledBy="{x:Reference DescriptionLabel}" />
                 <Entry Text="{Binding Description}" FontSize="Small"/>
                 <Button Text="Save" Command="{Binding SaveCommand}"
                         AutomationProperties.IsInAccessibleTree="true"
