@@ -26,8 +26,12 @@
                 <Entry Text="{Binding Name}" FontSize="Small"/>
                 <Label Text="Description:" FontSize="Medium" />
                 <Entry Text="{Binding Description}" FontSize="Small"/>
-                <Button Text="Save" Command="{Binding SaveCommand}" />
-                <Button Text="Take Picture" Command="{Binding TakePictureCommand}" />
+                <Button Text="Save" Command="{Binding SaveCommand}"
+                        AutomationProperties.IsInAccessibleTree="true"
+                        AutomationProperties.HelpText="Saves the job name and description" />
+                <Button Text="Take Picture" Command="{Binding TakePictureCommand}"
+                        AutomationProperties.IsInAccessibleTree="true"
+                        AutomationProperties.HelpText="Takes a picture of the job" />
                 <Image Source="{Binding Picture}"/>
 
                 <Label Text="Pictures:" FontSize="Large" />

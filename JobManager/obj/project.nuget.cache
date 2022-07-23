@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lxg04fcF/VBmEJLOjgIvpinAu+wd2VjXqzWzZfqobALRY2zKzhK+vRqdf6/I+8ZvMZxhvNMyOeUypVEud49qJA==",
+  "dgSpecHash": "4xQtzQR7YC8t9cE7eRI6rNZxZBtmieNshRFTvxuZHzDOqOkSeI46WXOW0IcfEJgn6A5y6rBIaK5M4B5/LD1c4g==",
   "success": true,
-  "projectFilePath": "/Users/irsupera/Documents/ISP-1004/AccessibleJobManager/JobManager/JobManager.csproj",
+  "projectFilePath": "/Users/irsupera/Documents/ISP-1004/AccessibleJobManagerCopy/JobManager/JobManager.csproj",
   "expectedPackageFiles": [
     "/Users/irsupera/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/irsupera/.nuget/packages/azure.storage.blobs/12.13.0/azure.storage.blobs.12.13.0.nupkg.sha512",

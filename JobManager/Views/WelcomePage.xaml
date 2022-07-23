@@ -16,7 +16,9 @@
 
             <Label Text="Orientation: " FontSize="Medium" />
             <Label Text="{Binding Orientation}" FontSize="Large" />
-            <Button Text="Get Orientation" Command="{Binding GetOrientationCommand}" />
+            <Button Text="Get Orientation" Command="{Binding GetOrientationCommand}"
+                    AutomationProperties.IsInAccessibleTree="true"
+                    AutomationProperties.HelpText="Updates the orientation label"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

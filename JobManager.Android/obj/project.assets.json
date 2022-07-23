@@ -3829,11 +3829,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/irsupera/Documents/ISP-1004/AccessibleJobManager/JobManager.Android/JobManager.Android.csproj",
+      "projectUniqueName": "/Users/irsupera/Documents/ISP-1004/AccessibleJobManagerCopy/JobManager.Android/JobManager.Android.csproj",
       "projectName": "JobManager.Android",
-      "projectPath": "/Users/irsupera/Documents/ISP-1004/AccessibleJobManager/JobManager.Android/JobManager.Android.csproj",
+      "projectPath": "/Users/irsupera/Documents/ISP-1004/AccessibleJobManagerCopy/JobManager.Android/JobManager.Android.csproj",
       "packagesPath": "/Users/irsupera/.nuget/packages/",
-      "outputPath": "/Users/irsupera/Documents/ISP-1004/AccessibleJobManager/JobManager.Android/obj/",
+      "outputPath": "/Users/irsupera/Documents/ISP-1004/AccessibleJobManagerCopy/JobManager.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -3848,8 +3848,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "/Users/irsupera/Documents/ISP-1004/AccessibleJobManager/JobManager/JobManager.csproj": {
-              "projectPath": "/Users/irsupera/Documents/ISP-1004/AccessibleJobManager/JobManager/JobManager.csproj"
+            "/Users/irsupera/Documents/ISP-1004/AccessibleJobManagerCopy/JobManager/JobManager.csproj": {
+              "projectPath": "/Users/irsupera/Documents/ISP-1004/AccessibleJobManagerCopy/JobManager/JobManager.csproj"
             }
           }
         }

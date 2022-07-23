@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o1PqakyaU4QoP/6L8gE8RAfcwQW5/mGZgKSvBoWRkqH1nR3kcs54wkO3Xznm7NKwJtcY6SoP5Eas2vnufD/ZnA==",
+  "dgSpecHash": "TMz/tze02oafCHs6EqDyAOCxXTKSGgo6xXTaDsmanPmYV+TgRrMzSdHN1WrXoECs1/l7wB2x1Nj3LQ9ucrEHdQ==",
   "success": true,
-  "projectFilePath": "/Users/irsupera/Documents/ISP-1004/AccessibleJobManager/JobManager.API/JobManager.API.csproj",
+  "projectFilePath": "/Users/irsupera/Documents/ISP-1004/AccessibleJobManagerCopy/JobManager.API/JobManager.API.csproj",
   "expectedPackageFiles": [
     "/Users/irsupera/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/irsupera/.nuget/packages/microsoft.aspnetcore.html.abstractions/2.2.0/microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

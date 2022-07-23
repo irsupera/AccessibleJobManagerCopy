@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/irsupera/Documents/ISP-1004/AccessibleJobManager/JobManager/JobManager.csproj": {}
+    "/Users/irsupera/Documents/ISP-1004/AccessibleJobManagerCopy/JobManager/JobManager.csproj": {}
   },
   "projects": {
-    "/Users/irsupera/Documents/ISP-1004/AccessibleJobManager/JobManager/JobManager.csproj": {
+    "/Users/irsupera/Documents/ISP-1004/AccessibleJobManagerCopy/JobManager/JobManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/irsupera/Documents/ISP-1004/AccessibleJobManager/JobManager/JobManager.csproj",
+        "projectUniqueName": "/Users/irsupera/Documents/ISP-1004/AccessibleJobManagerCopy/JobManager/JobManager.csproj",
         "projectName": "JobManager",
-        "projectPath": "/Users/irsupera/Documents/ISP-1004/AccessibleJobManager/JobManager/JobManager.csproj",
+        "projectPath": "/Users/irsupera/Documents/ISP-1004/AccessibleJobManagerCopy/JobManager/JobManager.csproj",
         "packagesPath": "/Users/irsupera/.nuget/packages/",
-        "outputPath": "/Users/irsupera/Documents/ISP-1004/AccessibleJobManager/JobManager/obj/",
+        "outputPath": "/Users/irsupera/Documents/ISP-1004/AccessibleJobManagerCopy/JobManager/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/irsupera/.config/NuGet/NuGet.Config"

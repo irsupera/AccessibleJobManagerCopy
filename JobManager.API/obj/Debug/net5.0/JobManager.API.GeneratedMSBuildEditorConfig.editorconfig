@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = JobManager.API
-build_property.ProjectDir = /Users/irsupera/Documents/ISP-1004/AccessibleJobManager/JobManager.API/
+build_property.ProjectDir = /Users/irsupera/Documents/ISP-1004/AccessibleJobManagerCopy/JobManager.API/

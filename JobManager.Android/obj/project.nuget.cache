@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pt6ymll6W6y3MIdt2jQDAxnEGCObG3rasSD8orouKBxi0AKgUXWzlHtPfR3+hSON08YxO4/OF1YJYMJ2Buv13g==",
+  "dgSpecHash": "A332J2B6RkoH+8t9DXsktOg0RoZvIJgz4MAbWUpCAIWMWB9OmytOhG0zcPmD5CcuJE7MvxDi1riFho4nmCJ2Ug==",
   "success": true,
-  "projectFilePath": "/Users/irsupera/Documents/ISP-1004/AccessibleJobManager/JobManager.Android/JobManager.Android.csproj",
+  "projectFilePath": "/Users/irsupera/Documents/ISP-1004/AccessibleJobManagerCopy/JobManager.Android/JobManager.Android.csproj",
   "expectedPackageFiles": [
     "/Users/irsupera/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/irsupera/.nuget/packages/azure.storage.blobs/12.13.0/azure.storage.blobs.12.13.0.nupkg.sha512",

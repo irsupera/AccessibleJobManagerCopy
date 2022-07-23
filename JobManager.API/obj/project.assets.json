@@ -7362,11 +7362,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/irsupera/Documents/ISP-1004/AccessibleJobManager/JobManager.API/JobManager.API.csproj",
+      "projectUniqueName": "/Users/irsupera/Documents/ISP-1004/AccessibleJobManagerCopy/JobManager.API/JobManager.API.csproj",
       "projectName": "JobManager.API",
-      "projectPath": "/Users/irsupera/Documents/ISP-1004/AccessibleJobManager/JobManager.API/JobManager.API.csproj",
+      "projectPath": "/Users/irsupera/Documents/ISP-1004/AccessibleJobManagerCopy/JobManager.API/JobManager.API.csproj",
       "packagesPath": "/Users/irsupera/.nuget/packages/",
-      "outputPath": "/Users/irsupera/Documents/ISP-1004/AccessibleJobManager/JobManager.API/obj/",
+      "outputPath": "/Users/irsupera/Documents/ISP-1004/AccessibleJobManagerCopy/JobManager.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/irsupera/.config/NuGet/NuGet.Config"
